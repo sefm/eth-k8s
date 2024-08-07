@@ -26,7 +26,7 @@ Syncing Geth
 INFO [08-03|22:40:10.976] Imported new chain segment               blocks=1  txs=142  mgas=7.995  elapsed=8.229s   mgasps=0.971  number=10,291,650 hash=14c9ae…4c3621 dirty=15.96MiB
 INFO [08-03|22:40:18.213] Imported new chain segment               blocks=2  txs=278  mgas=15.937 elapsed=7.237s   mgasps=2.203  number=10,291,652 hash=3fdabc…45ccfd dirty=16.02MiB
 ```
-
+Syncing Prysm
 ```
 time="2024-08-03 22:40:10" level=info msg="New gossiped block received" prefix=blockchain slot=1928374 proposerIndex=2912
 time="2024-08-03 22:40:15" level=info msg="Block processed" prefix=blockchain slot=1928374 blockRoot=8e2f…3a4c stateRoot=c3d2…1f2e
